@@ -1,11 +1,10 @@
-# FinerFlips
+# FinerFarms
 
-FinerFlips is a flipping mod for hypixel skyblock.
+FinerFlips is a farming mod for hypixel skyblock.
 The mod is totally legal to use in the game which makes it the perfect quality of life mod.
-A SkyBlock Flipping Mod.
+A SkyBlock farming Mod.
 
-- `/FF` - Shows the config GUI
-- `/FF help` - Shows the help message containing all the subcommands and their usage
+- `Go into inventory and click ezskyblockscripts` - Shows the config GUI
 - `/FF toggle` - Enables the mod to return a list of suggested items to flip whenever one is found.
 - Discord - https://discord.gg/UjYyqgcfFK
 
@@ -26,7 +25,7 @@ Make sure you are whitelisted! Whitelisting takes place in the discord server!
 ## Usage
 
 ```python
-Open menu: /FF
+Open menu: Go into inventory and click ezskyblockscripts
 
 Toggle mod: /FFtoggle
 
@@ -39,4 +38,4 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-# We are not liable for any coins you lost by buying items without checking, flips aren't always perfect
+
