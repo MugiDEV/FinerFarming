@@ -1,5 +1,7 @@
 package me.Mugi.FinerFlips.hooks;
 
+# Farm
+
 import me.Mugi.FinerFlips.Config;
 import me.Mugi.FinerFlips.objects.BestSellingMethod;
 import me.Mugi.FinerFlips.utils.Utils;
