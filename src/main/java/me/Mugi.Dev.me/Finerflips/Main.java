@@ -1,5 +1,7 @@
 package me.Mugi.FinerFlips;
 
+# reviving the mod
+
 import me.Mugi.FinerFlips.commands.FFCommand;
 import me.Mugi.FinerFlips.commands.subcommands.Help;
 import me.Mugi.FinerFlips.commands.subcommands.Subcommand;
